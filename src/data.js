@@ -34,6 +34,11 @@ export const columns = [
     boardId: "b2",
     title: "completed",
   },
+  {
+    id: "c4",
+    boardId: "b1",
+    title: "New Column"
+  }
 ];
 
 export const tasks = [
